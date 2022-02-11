@@ -2,15 +2,17 @@
     <img src="https://celeryrblx.github.io/assets/logo_dark.png" height="130">
 </p>
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/thedoomed/Celery/raw/main/NewCelery.zip" alt="Download for Windows >=10">
-        <img src="https://img.shields.io/badge/Download-Windows%2010%2B-darkgreen?logo=windows&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Download%20for%20Windows%2010%2B-04a705?logo=windows&style=flat-square" />
     </a>
     <a href="https://github.com/thedoomed/Celery/raw/main/Celery.zip" alt="Download for Windows 7 & older">
-        <img src="https://img.shields.io/badge/Download-Windows%207%20&%20older-darkgreen?logo=windows&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Download%20for%20Windows%207%20&%20older-04a705?logo=windowsxp&style=flat-square" />
     </a>
     <a href="https://celeryrblx.github.io/" alt="Documentation">
-        <img src="https://img.shields.io/badge/-Documentation-darkgreen?logo=bookstack&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Documentation-darkgreen?logo=bookstack&logoColor=white&style=flat-square" />
     </a>
     <br/>
     <a href="https://discord.gg/nXu4FENMPj" alt="Discord">
