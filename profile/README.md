@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/thedoomed/Celery/raw/main/NewCelery.zip" alt="Download for Windows >=10">
+    <a href="https://github.com/thedoomed/Celery/raw/main/Release.zip" alt="Download for Windows >=10">
         <img src="https://img.shields.io/badge/-Download%20for%20Windows%2010%2B-04a705?logo=windows&style=flat-square" />
     </a>
     <a href="https://github.com/thedoomed/Celery/raw/main/Celery.zip" alt="Download for Windows 7 & older">
